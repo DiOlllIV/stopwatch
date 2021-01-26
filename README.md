@@ -15,12 +15,6 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
-## `npm run lint:fix`
-
-Run ESLint to statically analyzes code to quickly find problems in `src` folder.
-Many problems ESLint finds can be automatically fixed. ESLint fixes are syntax-aware so you won't experience errors introduced by traditional find-and-replace algorithms.
-
-
 ## `npm run build`
 
 Builds the app for production to the `dist` folder.<br />
